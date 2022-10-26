@@ -15,7 +15,7 @@ inoremap <buffer> (( ⸨
 inoremap <buffer> )) ⸩
 inoremap <buffer> {{ ⁅
 inoremap <buffer> }} ⁆
-inoremap <buffer> ./ ⁒
+inoremap <buffer> \/ ⁒
 inoremap <buffer> \* ⋄
 inoremap <buffer> \_ ‗
 inoremap <buffer> \- ¬
